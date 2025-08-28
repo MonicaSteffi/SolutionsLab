@@ -1,0 +1,11 @@
+product_id,product_name,category,price
+101,Laptop,Electronics,1200
+102,Headphones,Electronics,150
+103,Coffee Maker,Home,80
+104,Smartphone,Electronics,800
+105,Tablet,Electronics,400
+106,Monitor,Electronics,200
+107,Keyboard,Electronics,50
+108,Chair,Furniture,150
+109,Desk Lamp,Home,40
+110,Printer,Electronics,180

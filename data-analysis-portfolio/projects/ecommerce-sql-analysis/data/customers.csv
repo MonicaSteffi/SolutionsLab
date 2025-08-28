@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,email,join_date,country
+1,John,Doe,john@example.com,2023-01-15,USA
+2,Alice,Smith,alice@example.com,2023-02-10,UK
+3,Bob,Brown,bob@example.com,2023-03-05,USA
+4,Emma,Johnson,emma@example.com,2023-01-20,Canada
+5,David,Lee,david@example.com,2023-02-15,USA
+6,Sophia,Wilson,sophia@example.com,2023-03-10,UK
+7,Michael,Taylor,michael@example.com,2023-01-25,Canada
+8,Olivia,Anderson,olivia@example.com,2023-02-20,USA
+9,Daniel,Thomas,daniel@example.com,2023-03-15,UK
+10,Mia,Martin,mia@example.com,2023-03-18,Canada
