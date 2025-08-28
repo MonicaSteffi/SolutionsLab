@@ -1,11 +1,9 @@
-# 📂 Data Analysis Portfolio
+# Data Analysis Portfolio
 
-Hi 👋, I'm [Your Name], a data analyst with expertise in **R, SQL, and Python**.  
-This portfolio highlights my skills in **data wrangling, machine learning, SQL analytics, and storytelling**.
+Hi Data freaks, I'm Steffi, a data analyst trying to understand the real-world data with **R, SQL, and Python**.  
+The main purpose of this portfolio is to highlight my skills in **data wrangling, machine learning, SQL analytics, and storytelling**.
 
----
-
-## 🔑 Featured Projects
+## Featured Projects
 
 ### 1. [E-commerce Sales Analysis (SQL)](projects/ecommerce-sql-analysis/README.md)
 - Advanced SQL queries: CTEs, window functions, cohort analysis  
