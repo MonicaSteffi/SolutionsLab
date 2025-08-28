@@ -34,6 +34,4 @@ The main purpose of this portfolio is to highlight my skills in **data wrangling
 ---
 
 ## 📌 Contact
-- **LinkedIn:** [Your LinkedIn]  
-- **Portfolio Website:** [Your Website]  
-- **Email:** your@email.com  
+- **LinkedIn:** https://www.linkedin.com/in/dr-monica-steffi-matchado-phd-18301338/  
